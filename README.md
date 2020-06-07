@@ -15,7 +15,7 @@ On Windows
 
 > venv/Scripts/activate
 
-(venv)$ pip install -r requirements.
+> (venv)$ pip install -r requirements.
 
 ## migrate
 
