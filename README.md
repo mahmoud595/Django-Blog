@@ -1,12 +1,12 @@
-#Django Blog Application
+# Django Blog Application
 
-##Make virtualenv
+## Make virtualenv
 
 On Linux:
 
->$ python3.6 -m venv 
+> $ python3.6 -m venv 
 
->$ . venv/bin/
+> $ . venv/bin/
 
 On Windows
 
@@ -17,19 +17,19 @@ On Windows
 
 (venv)$ pip install -r requirements.
 
-##migrate
+## migrate
 
->(venv)$ cd myproject
+> (venv)$ cd myproject
 
->(venv)$ python manage.py migrate
+> (venv)$ python manage.py migrate
 
-##Make admin user
+## Make admin user
 
->(venv)$ python manage.py createsuperuser
+> (venv)$ python manage.py createsuperuser
 
-##runserver
+## runserver
 
->(venv)$ cd myproject
+> (venv)$ cd myproject
 
-(venv)$ python manage.py 
+> (venv)$ python manage.py 
 
