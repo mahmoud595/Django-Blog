@@ -24,7 +24,7 @@ SECRET_KEY = 'o(2j*4waebf(5x1xr08jv5jy=v%(*r^io*go^rmm2ox++ldjv3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://vast-springs-57432.herokuapp.com"]
+ALLOWED_HOSTS = ['django-myblog123.herokuapp.com']
 
 
 # Application definition
